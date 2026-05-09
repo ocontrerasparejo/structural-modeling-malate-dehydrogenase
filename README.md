@@ -31,9 +31,6 @@ Using the PDB structure **1LDN** as a starting point, catalytic and regulatory c
 ### Catalytic Protonation by His193
 ![His193 Protonation](figures/his193_protonation.png)
 
-### Tetramer Reconstruction and Allosteric Activation
-![LDH Tetramer](figures/ldh_tetramer.png)
-
 ---
 
 ## Repository Structure
